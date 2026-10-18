@@ -1,5 +1,10 @@
 # UTS Praktikum Penelusuran Informasi
 
+Kelompok 2:
+1. Muhammad Fazel Mawla (2408107010074)
+2. Maulana Shidqi Albadawie (2408107010047)
+3. Faris Fudhaili (2408107010040)
+
 Sistem IR berbasis Python CLI untuk **lima dataset**. Whoosh mengambil seluruh
 dokumen yang memiliki setidaknya satu token query; CountVectorizer membentuk
 Bag of Words; cosine similarity menentukan urutan hasil akhir. Menu pencarian
