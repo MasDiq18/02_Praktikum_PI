@@ -1,0 +1,14 @@
+test_cache_reuse_and_invalidation (test_engine.RetrievalTests.test_cache_reuse_and_invalidation) ... ok
+test_empty_oov_stopwords (test_engine.RetrievalTests.test_empty_oov_stopwords) ... ok
+test_exact_cosine_and_deterministic_tie (test_engine.RetrievalTests.test_exact_cosine_and_deterministic_tie) ... ok
+test_missing_and_bad_schema (test_engine.RetrievalTests.test_missing_and_bad_schema) ... ok
+test_preprocessing (test_engine.RetrievalTests.test_preprocessing) ... ok
+test_ranking_equals_entire_corpus (test_engine.RetrievalTests.test_ranking_equals_entire_corpus) ... ok
+test_skip_and_bow (test_engine.RetrievalTests.test_skip_and_bow) ... ok
+test_source_filter (test_engine.RetrievalTests.test_source_filter) ... ok
+test_validation (test_engine.RetrievalTests.test_validation) ... ok
+
+----------------------------------------------------------------------
+Ran 9 tests in 0.120s
+
+OK

@@ -1,0 +1,24 @@
+
+Query: Xiaomi kacamata pintar
+Token: xiaomi kacamata pintar
+Kandidat: 1,018 | Waktu pencarian: 0.1293 s
+
+1. [tempo] Xiaomi Hadirkan 8 Produk Baru, dari Ponsel hingga AC
+   ID: tempo:1923 | Cosine: 0.439817
+   TEMPO.CO,Jakarta-XiaomiIndonesia resmi menghadirkan delapan produk terbaru dalam acara 'Xiaomi Flagship Launch 2025' yang digelar Kamis, 13 Maret 2025. Marketing Director Xiaomi Indonesia Andi Renreng mengatakan, selain Xiaomi 15 Series, pe...
+
+2. [mojok] Xiaomi Tak Cuma Tentang Smartphone, Punya Perangkat-Perangkat Inovatif Lain dari TV, Vacuum Cleaner hingga Robot Anjing Canggih
+   ID: mojok:1714 | Cosine: 0.385911
+   Dalam benak banyak orang, selama ini Xiamoi hanya identik dengan smartphone. Padahal Xiaomi memiliki sederet produk device inovatif yang menunjang kebutuhan pengguna. Hal ini sebagaimana disampaikan oleh Rendy Tonggo selaku Product Marketin...
+
+3. [tempo] Tablet Baru Xiaomi: Apa Saja?
+   ID: tempo:4760 | Cosine: 0.349345
+   XIAOMIIndonesia meluncurkanXiaomi Pad 7Series sebagai produk tablet terbaru mereka dalam acara 'Xiaomi Flagship Launch 2025' pada Kamis, 13 Maret 2025. Seri ini terdiri atas Xiaomi Pad 7 dan Xiaomi Pad 7 Pro yang dilengkapi Xiaomi HyperOS 2...
+
+4. [mojok] Xiaomi Cinta Indonesia, Kepemimpinan Ciamik Alvin Tse, dan Demokratisasi Industri Smartphone
+   ID: mojok:5973 | Cosine: 0.327480
+   MOJOK.CO – Xiaomi adalah jenama smartphone yang ternyata cinta Indonesia, terutama di bawah kepemimpinan ciamik Alvin Tse. Pernah dengar tiga istilah di atas? Sepertinya yang paling tidak asing adalah Xiaomi, salah satu brand pengguncang pa...
+
+5. [tempo] Bocoran Spesifikasi Xiaomi 16 yang akan Dirilis Akhir 2025
+   ID: tempo:5992 | Cosine: 0.316308
+   TEMPO.CO,Jakarta-Xiaomi disebut-sebut akan meluncurkan seri flagship terbarunya,Xiaomi 16, dalam beberapa bulan ke depan. Meski tanggal rilis resminya belum diumumkan, bocoran spesifikasinya sudah mulai tersebar. \ Model standar Xiaomi 16 d...

@@ -1,0 +1,34 @@
+etd-usk: 10,000 dokumen diindeks
+etd-ugm: 10,000 dokumen diindeks
+kompas: 10,000 dokumen diindeks
+tempo: 10,000 dokumen diindeks
+mojok: 9,484 dokumen diindeks
+Membentuk matriks sparse Bag of Words (sekali per perubahan dataset)...
+{
+  "cache_hit": false,
+  "seconds": 112.00386994599967,
+  "fingerprint": "b2955068b913c454eaf28cd62419416d744e9d2a6019c72e75fad1ec051fed8c",
+  "documents": 49484,
+  "vocabulary": 266017,
+  "nnz": 8104976,
+  "source_counts": {
+    "etd-usk": 10000,
+    "etd-ugm": 10000,
+    "kompas": 10000,
+    "tempo": 10000,
+    "mojok": 9484
+  },
+  "input_rows": {
+    "etd-usk": 10000,
+    "etd-ugm": 10000,
+    "kompas": 10000,
+    "tempo": 10000,
+    "mojok": 9484
+  },
+  "skipped": {},
+  "duplicates": {},
+  "python": "3.12.14",
+  "sklearn": "1.8.0",
+  "whoosh": "2.7.4",
+  "format": 1
+}

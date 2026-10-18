@@ -1,0 +1,377 @@
+{
+  "environment": {
+    "platform": "Linux-6.18.55-x86_64-with-glibc2.39",
+    "python": "3.12.14"
+  },
+  "metadata": {
+    "fingerprint": "b2955068b913c454eaf28cd62419416d744e9d2a6019c72e75fad1ec051fed8c",
+    "documents": 49484,
+    "vocabulary": 266017,
+    "nnz": 8104976,
+    "source_counts": {
+      "etd-usk": 10000,
+      "etd-ugm": 10000,
+      "kompas": 10000,
+      "tempo": 10000,
+      "mojok": 9484
+    },
+    "input_rows": {
+      "etd-usk": 10000,
+      "etd-ugm": 10000,
+      "kompas": 10000,
+      "tempo": 10000,
+      "mojok": 9484
+    },
+    "skipped": {},
+    "duplicates": {},
+    "python": "3.12.14",
+    "sklearn": "1.8.0",
+    "whoosh": "2.7.4",
+    "format": 1
+  },
+  "initial_load": {
+    "cache_hit": true,
+    "seconds": 0.22053082599995832,
+    "fingerprint": "b2955068b913c454eaf28cd62419416d744e9d2a6019c72e75fad1ec051fed8c",
+    "documents": 49484,
+    "vocabulary": 266017,
+    "nnz": 8104976,
+    "source_counts": {
+      "etd-usk": 10000,
+      "etd-ugm": 10000,
+      "kompas": 10000,
+      "tempo": 10000,
+      "mojok": 9484
+    },
+    "input_rows": {
+      "etd-usk": 10000,
+      "etd-ugm": 10000,
+      "kompas": 10000,
+      "tempo": 10000,
+      "mojok": 9484
+    },
+    "skipped": {},
+    "duplicates": {},
+    "python": "3.12.14",
+    "sklearn": "1.8.0",
+    "whoosh": "2.7.4",
+    "format": 1
+  },
+  "warm_load_seconds": [
+    0.2198535760003324,
+    0.2281913430001623,
+    0.19084527199993317
+  ],
+  "cache_median_seconds": 0.2198535760003324,
+  "queries": [
+    {
+      "query": "pembelajaran matematika",
+      "normalized_query": "pembelajaran matematika",
+      "candidates": 2143,
+      "results": [
+        {
+          "doc_id": "mojok:6071",
+          "source": "mojok",
+          "title": "Pembelajaran Matematika Seharusnya SESAT, Maksudnya Seru, Serius, Aplikatif, dan Transformatif",
+          "score": 0.5544869730014276,
+          "snippet": "Riset OECD 2018 menunjukkan bahwa dalam bidang matematika, hanya 28% siswa Indonesia yang mencapai kemahiran tingkat 2. Hal ini menunjukkan bahwa kemampuan siswa Indonesia masih di bawah rata-rata. Saya sekali karena ilmu matematika merupak"
+        },
+        {
+          "doc_id": "etd-usk:7219",
+          "source": "etd-usk",
+          "title": "MENGIDENTIFIKASI SOCIOMATHEMATICAL NORM SISWA MELALUI PROJEK GAME DENGAN KONTEKS STUNTING  BERBANTUAN AUGMENTED REALITY PADA MATERI STATISTIKA",
+          "score": 0.5109375438138529,
+          "snippet": "Sociomathematical norms mengacu pada perilaku yang muncul dari interaksi siswa dengan matematika dalam pembelajaran matematika. Namun, sebagian siswa menganggap bahwa pembelajaran matematika bersifat individual dan interaksi sosial dianggap"
+        },
+        {
+          "doc_id": "mojok:5785",
+          "source": "mojok",
+          "title": "5 Istilah Rancangan Pembelajaran yang Krusial dan Wajib Dipahami Mahasiswa Keguruan",
+          "score": 0.48872333943915836,
+          "snippet": "Bagi kalian yang ingin masuk fakultas Keguruan atau Ilmu Pendidikan, apa pun program studinya wajib mengetahui beberapa istilah rancangan pembelajaran. Tentu saja pemahaman ini perlu karena kalian pasti akan mendapatkan tugas untuk menyusun"
+        },
+        {
+          "doc_id": "etd-usk:532",
+          "source": "etd-usk",
+          "title": "EFEKTIVITAS PENGGUNAAN APLIKASI GEOGEBRA DALAM PEMBELAJARAN MATEMATIKA",
+          "score": 0.47193990372426936,
+          "snippet": "Kisyfa Khizana Rahmi. (2025). Efektivitas Penggunaan Aplikasi Geogebra dalam Pembelajaran Matematika. [Skripsi. Universitas Syiah Kuala]. Di bawah bimbingan Dra. Suryawati, M.Pd dan Mukhlis Hidayat, S.Pd., M.Kom.Kurangnya pemahaman guru dal"
+        },
+        {
+          "doc_id": "etd-usk:393",
+          "source": "etd-usk",
+          "title": "ANALISIS   PENGARUH    SELF-EFFICACY,   BELIEF   DAN KOMPETENSI MATEMATIKA TERHADAP TINGKAT LITERASI STATISTIKA MENGGUNAKAN STRUCTURAL EQUATION MODELING (SEM) (STUDI KASUS: MAHASISWA ANGKATAN 2022 PROGRAM SARJANA FAKULTAS MATEMATIKA DAN ILMU PENGETAHUAN ALAM UNIVERSITAS SYIAH KUALA)",
+          "score": 0.44983803761985947,
+          "snippet": "Penelitian ini menyelidiki tingkat self-efficacy, belief, kompetensi matematika, dan literasi statistika mahasiswa angkatan 2022 program Sarjana Fakultas Matematika dan Ilmu Pengetahuan Alam Universitas Syiah Kuala; dan menyelidiki apakah s"
+        }
+      ],
+      "seconds": 0.1247362350000003,
+      "code": "Q1",
+      "median_search_seconds": 0.11446748299977116,
+      "matches_exhaustive_cosine": true
+    },
+    {
+      "query": "serangan drone Afghanistan",
+      "normalized_query": "serangan drone afghanistan",
+      "candidates": 1193,
+      "results": [
+        {
+          "doc_id": "etd-ugm:1",
+          "source": "etd-ugm",
+          "title": "Peningkatan Penggunaan Serangan Drone dalam Perang Melawan Teror di Afghanistan Pada Masa Kepemimpinan Presiden Obama",
+          "score": 0.5672531672170386,
+          "snippet": "Drone secara umum dapat diklasifikasikan sebagai semua kendaraan baik darat, laut maupun udara, yang mampu beroperasi secara mandiri tanpa diperlukan kendali langsung dari manusia yang berada di dalam kendaraan tersebut. Drone tetap dapat d"
+        },
+        {
+          "doc_id": "mojok:9021",
+          "source": "mojok",
+          "title": "5 Drone Murah Seharga Kurang dari Lima Juta untuk Para Pemula",
+          "score": 0.3717826272108358,
+          "snippet": "MOJOK.CO – Popularitas drone belakangan ini banyak dimanfaatkan konsumen di Indonesia sebagai peranti multimedia. Lima drone murah pilihan ini adalah alternatif buat pengguna level pemula yang ingin mencoba gajet yang bisa mengambil foto da"
+        },
+        {
+          "doc_id": "tempo:3555",
+          "source": "tempo",
+          "title": "AJI dan KKJ Kecam Serangan Siber DDoS terhadap Media",
+          "score": 0.3568429075520404,
+          "snippet": "TEMPO.CO,Jakarta- Aliansi Jurnalis Independen (AJI) dan Komite Keselamatan Jurnalis (KKJ) mengecam kerasserangan siberberupadistributed denial of service(DDoS) yang menimpa media, termasukSuara.compada Selasa lalu, 15 April 2025. Serangan i"
+        },
+        {
+          "doc_id": "tempo:2330",
+          "source": "tempo",
+          "title": "SAFEnet Sebut Serangan Digital ke Tempo Tak Bisa Dilakukan Sembarang Orang",
+          "score": 0.341260464592661,
+          "snippet": "TEMPO.CO,Jakarta- Direktur Southeast Asia Freedom of Expression Network (SAFEnet) Nenden Sekar Arum mengatakan,serangan digitalyang didapatkanTempotak bisa dilakukan oleh sembarang orang. Menurut dia, perlu keahlian khusus bagi individu unt"
+        },
+        {
+          "doc_id": "tempo:5220",
+          "source": "tempo",
+          "title": "Tempo Diserang DDoS Setelah Terbitkan Liputan Judi Online",
+          "score": 0.32830539309874973,
+          "snippet": "TEMPO.CO,Jakarta- Situs beritaTempomendapatkanserangan siberberupa Distributed Denial of Service (DDoS) setelah menerbitkan laporan berjudul “Tentakel Judi Kamboja”. Wakil Pemimpin Redaksi Tempo Bagja Hidayat mengatakan, serangan terjadi se"
+        }
+      ],
+      "seconds": 0.10052568499986592,
+      "code": "Q2",
+      "median_search_seconds": 0.09726471099975242,
+      "matches_exhaustive_cosine": true
+    },
+    {
+      "query": "Xiaomi kacamata pintar",
+      "normalized_query": "xiaomi kacamata pintar",
+      "candidates": 1018,
+      "results": [
+        {
+          "doc_id": "tempo:1923",
+          "source": "tempo",
+          "title": "Xiaomi Hadirkan 8 Produk Baru, dari Ponsel hingga AC",
+          "score": 0.43981651164104973,
+          "snippet": "TEMPO.CO,Jakarta-XiaomiIndonesia resmi menghadirkan delapan produk terbaru dalam acara 'Xiaomi Flagship Launch 2025' yang digelar Kamis, 13 Maret 2025. Marketing Director Xiaomi Indonesia Andi Renreng mengatakan, selain Xiaomi 15 Series, pe"
+        },
+        {
+          "doc_id": "mojok:1714",
+          "source": "mojok",
+          "title": "Xiaomi Tak Cuma Tentang Smartphone, Punya Perangkat-Perangkat Inovatif Lain dari TV, Vacuum Cleaner hingga Robot Anjing Canggih",
+          "score": 0.3859111202586341,
+          "snippet": "Dalam benak banyak orang, selama ini Xiamoi hanya identik dengan smartphone. Padahal Xiaomi memiliki sederet produk device inovatif yang menunjang kebutuhan pengguna. Hal ini sebagaimana disampaikan oleh Rendy Tonggo selaku Product Marketin"
+        },
+        {
+          "doc_id": "tempo:4760",
+          "source": "tempo",
+          "title": "Tablet Baru Xiaomi: Apa Saja?",
+          "score": 0.34934498739263803,
+          "snippet": "XIAOMIIndonesia meluncurkanXiaomi Pad 7Series sebagai produk tablet terbaru mereka dalam acara 'Xiaomi Flagship Launch 2025' pada Kamis, 13 Maret 2025. Seri ini terdiri atas Xiaomi Pad 7 dan Xiaomi Pad 7 Pro yang dilengkapi Xiaomi HyperOS 2"
+        },
+        {
+          "doc_id": "mojok:5973",
+          "source": "mojok",
+          "title": "Xiaomi Cinta Indonesia, Kepemimpinan Ciamik Alvin Tse, dan Demokratisasi Industri Smartphone",
+          "score": 0.32747984707808375,
+          "snippet": "MOJOK.CO – Xiaomi adalah jenama smartphone yang ternyata cinta Indonesia, terutama di bawah kepemimpinan ciamik Alvin Tse. Pernah dengar tiga istilah di atas? Sepertinya yang paling tidak asing adalah Xiaomi, salah satu brand pengguncang pa"
+        },
+        {
+          "doc_id": "tempo:5992",
+          "source": "tempo",
+          "title": "Bocoran Spesifikasi Xiaomi 16 yang akan Dirilis Akhir 2025",
+          "score": 0.31630846724719774,
+          "snippet": "TEMPO.CO,Jakarta-Xiaomi disebut-sebut akan meluncurkan seri flagship terbarunya,Xiaomi 16, dalam beberapa bulan ke depan. Meski tanggal rilis resminya belum diumumkan, bocoran spesifikasinya sudah mulai tersebar. \\ Model standar Xiaomi 16 d"
+        }
+      ],
+      "seconds": 0.10803798799997821,
+      "code": "Q3",
+      "median_search_seconds": 0.10396167999988393,
+      "matches_exhaustive_cosine": true
+    },
+    {
+      "query": "United Airlines kelinci pesawat",
+      "normalized_query": "united airlines kelinci pesawat",
+      "candidates": 1442,
+      "results": [
+        {
+          "doc_id": "tempo:1",
+          "source": "tempo",
+          "title": "United Airlines Terbakar Usai Kelinci Terhisap ke Dalam Mesin Pesawat",
+          "score": 0.49189135442457277,
+          "snippet": "TEMPO.CO,Jakarta- Sebuah pesawatUnited Airlinesmendarat darurat setelah kebakaran yang diduga disebabkan oleh seekor kelinci. Binatang tersebut terhisap ke salah satu mesinpesawatsebelum lepas landas pada akhir pekan lalu. Video dramatis me"
+        },
+        {
+          "doc_id": "kompas:7243",
+          "source": "kompas",
+          "title": "Pilot Lupa Paspor, Pesawat United Airlines Terpaksa Putar Balik",
+          "score": 0.3859651178085248,
+          "snippet": "KOMPAS.com - Pesawat United Airlines rute Los Angeles-Shanghai terpaksa putar balik akibat sang pilot lupa membawa paspor, Sabtu (22/3/2025). \"Pilot tidak membawa paspornya. Kami mengatur kru baru untuk mengantar penumpang ke tujuan malam i"
+        },
+        {
+          "doc_id": "tempo:9896",
+          "source": "tempo",
+          "title": "Mesin Pesawat Terbakar gara-gara Serangan Kelinci",
+          "score": 0.37939345531966406,
+          "snippet": "TEMPO.CO,Jakarta- SebuahpesawatUnited Airlines terbakar di salah satu sisinya setelah seekor kelinci terisap ke mesin kanan. Kelinci tersebut dilaporkan berada di landasan pacu ketika pesawat akan berangkat dari Bandara Internasional Denver"
+        },
+        {
+          "doc_id": "mojok:6081",
+          "source": "mojok",
+          "title": "Nyaris Meninggal Saat Terbang Bersama Peach Airlines, Maskapai LCC dari Jepang",
+          "score": 0.3666785655692665,
+          "snippet": "Ini adalah pengalaman saya nyaris jatuh saat naik maskapai LCC asal Jepang, Peach Airlines. Saya pernah membaca jurnal yang menyatakan jika pesawat adalah transportasi paling aman di dunia dibandingkan moda transportasi lainnya. Rata-rata h"
+        },
+        {
+          "doc_id": "kompas:9395",
+          "source": "kompas",
+          "title": "Misteri Hilangnya Boeing 727-200, Dilarikan Menuju Samudra Atlantik dan Tak Terlacak hingga Kini",
+          "score": 0.3543416934461505,
+          "snippet": "KOMPAS.com - Pesawat Boeing 727-200 dengan nomor registrasi N844AA bekas American Airlines dicuri pada 25 Mei 2003 dan masih menghilang hingga kini. Pesawat dengan tiga mesin jet tersebut dicuri di Bandara Quatro de Fevereiro, Luanda, Angol"
+        }
+      ],
+      "seconds": 0.11269498599995131,
+      "code": "Q4",
+      "median_search_seconds": 0.11197766699979184,
+      "matches_exhaustive_cosine": true
+    },
+    {
+      "query": "lagu anime Naruto",
+      "normalized_query": "lagu anime naruto",
+      "candidates": 1037,
+      "results": [
+        {
+          "doc_id": "mojok:1",
+          "source": "mojok",
+          "title": "7 Lagu Anime yang Pasti Bikin Kamu Makin Semangat",
+          "score": 0.5882373968316517,
+          "snippet": "Lagu anime punya magis tersendiri. Ia tidak dibuat khusus untuk anime tersebut, kadang malah diciptakan atau rilis jauh sebelum anime tersebut rilis. Tapi, dia tidak bisa dipisahkan dari anime. Ia seakan menyatu, dan menceritakan anime ters"
+        },
+        {
+          "doc_id": "mojok:1719",
+          "source": "mojok",
+          "title": "7 Lagu Luar Negeri yang Punya Vibes Mirip Lagu Indonesia",
+          "score": 0.4331724429650884,
+          "snippet": "Tak ada yang baru di bawah matahari. Ungkapan ini seolah jadi salah satu prinsip yang cukup penting dalam dunia pengkaryaan, entah musik, sastra, atau film. Maka tak heran jika ada sebuah karya yang mirip dengan karya-karya sebelumnya, dan "
+        },
+        {
+          "doc_id": "mojok:2237",
+          "source": "mojok",
+          "title": "Rekomendasi Lagu-lagu Musisi Lampung yang Patut Didengar Selain Kangen Band",
+          "score": 0.4238356359067175,
+          "snippet": "Berbicara soal musisi Lampung, Kangen Band adalah satu nama yang pasti terpikirkan di benak kebanyakan orang. Wajar saja, sebab lagu-lagu dari grup band yang digawangi oleh Andika Mahesa sebagai vokalis itu sudah sering diputar di televisi "
+        },
+        {
+          "doc_id": "mojok:986",
+          "source": "mojok",
+          "title": "5 Rekomendasi Lagu The Rain yang Underrated",
+          "score": 0.4220305309084403,
+          "snippet": "Ngaku deh, kalau diminta menyebutkan lagu The Rain, pasti kalian akan menyebutkan “Terlatih Patah Hati” dan “Gagal Bersembunyi” kan? Hal itu wajar. Kedua lagu tersebut memang lagu yang ikonik dan unik. Ikonik, karena bisa dibilang jadi lagu"
+        },
+        {
+          "doc_id": "mojok:8743",
+          "source": "mojok",
+          "title": "10 Lagu TikTok Viral yang Sebenarnya Enak, tapi Mengganggu di Telinga",
+          "score": 0.4177122559309046,
+          "snippet": "TikTok. Platform ini, sepakat atau tidak, menjadi salah satu platform yang cukup ampuh untuk memasarkan sebuah lagu. Bukan seperti Spotify, YouTube Music, atau Bandcamp yang hanya menjajakan lagu, TikTok menjajakan lagu dengan visual kreasi"
+        }
+      ],
+      "seconds": 0.11052572300013708,
+      "code": "Q5",
+      "median_search_seconds": 0.10877880299995013,
+      "matches_exhaustive_cosine": true
+    },
+    {
+      "query": "pendidikan ekonomi Indonesia",
+      "normalized_query": "pendidikan ekonomi indonesia",
+      "candidates": 21643,
+      "results": [
+        {
+          "doc_id": "etd-usk:2185",
+          "source": "etd-usk",
+          "title": "ANALISIS PENGARUH PERDAGANGAN INTERNASIONAL INDONESIA TERHADAP PERTUMBUHAN EKONOMI",
+          "score": 0.5423733423313821,
+          "snippet": "ABSTRAKJudul : Analisis Pengaruh Perdagangan Internasional Indonesia Terhadap Pertumbuhan EkonomiPenulis : Cut Fathia RaisaNIM : 2001101010141Fakultas/Jurusan : Ekonomi dan Bisnis/Ekonomi PembangunanPembimbing : Prof. Dr. Apridar, S.E., M.S"
+        },
+        {
+          "doc_id": "tempo:5087",
+          "source": "tempo",
+          "title": "Berapa Biaya Kuliah Universitas Negeri Semarang Jalur SNBP 2025 untuk Program D3-S1",
+          "score": 0.5370464166496645,
+          "snippet": "TEMPO.CO,Jakarta- Universitas Negeri Semarang (Unnes) telah mengumumkan rincian biaya pendidikan bagi mahasiswa baru jenjang Diploma (D3) dan Sarjana (S1) yang diterima melalui jalur Seleksi Nasional Berdasarkan Prestasi (SNBP) untuk tahun "
+        },
+        {
+          "doc_id": "tempo:2589",
+          "source": "tempo",
+          "title": "Biaya Kuliah Fakultas Kedokteran UPI Jalur SNBP 2025 Tembus Rp 19 Juta",
+          "score": 0.5212132426878493,
+          "snippet": "TEMPO.CO,Jakarta-Salah satu perguruan tinggi negeri (PTN) yang banyak diincar mahasiswa di seleksi nasional berdasarkan prestasi (SNBP) 2025 adalah Universitas Pendidikan Indonesia atauUPI. Perguruan tinggi yang berlokasi di Bandung ini men"
+        },
+        {
+          "doc_id": "etd-usk:8628",
+          "source": "etd-usk",
+          "title": "PENGARUH INKLUSI KEUANGAN TERHADAP PERTUMBUHAN EKONOMI DI INDONESIA",
+          "score": 0.47683164854341575,
+          "snippet": "ABSTRAKJudul : Pengaruh Inklusi Keuangan Terhadap PertumbuhanEkonomi Di IndonesiaNama : Siti Alya HerdiantiNIM : 1901101010042Fakultas/Jurusan : Ekonomi dan Bisnis/Ekonomi pembangunanDosen Pembimbing : Fitriyani, S.E., M.ScKonsentrasi : Eko"
+        },
+        {
+          "doc_id": "tempo:6468",
+          "source": "tempo",
+          "title": "Mewujudkan Ekonomi Sirkular Lewat Pendidikan",
+          "score": 0.4634788097726402,
+          "snippet": "INFO NASIONAL - Pada awal 2021, Kementerian PPN/Bappenas, Kedutaan Besar Denmark di Jakarta, dan UNDP mempublikasikan dokumen bertajuk“The Economic, Social, and Environmental Benefits of A Circular Economy in Indonesia”.Di dalamnya terdapat"
+        }
+      ],
+      "seconds": 0.7979258260002098,
+      "code": "Q6",
+      "median_search_seconds": 0.8026887309997619,
+      "matches_exhaustive_cosine": true
+    },
+    {
+      "query": "zzzxxyynotinvocab",
+      "normalized_query": "zzzxxyynotinvocab",
+      "candidates": 0,
+      "results": [],
+      "message": "Query kosong/stopword atau tidak ada istilah di kosakata.",
+      "seconds": 0.00022381100006896304,
+      "code": "Q7",
+      "median_search_seconds": 3.27179996020277e-05,
+      "matches_exhaustive_cosine": null
+    },
+    {
+      "query": "dan yang di",
+      "normalized_query": "",
+      "candidates": 0,
+      "results": [],
+      "message": "Query kosong/stopword atau tidak ada istilah di kosakata.",
+      "seconds": 6.69989999551035e-05,
+      "code": "Q8",
+      "median_search_seconds": 3.0074999813223258e-05,
+      "matches_exhaustive_cosine": null
+    },
+    {
+      "query": "",
+      "normalized_query": "",
+      "candidates": 0,
+      "results": [],
+      "message": "Query kosong/stopword atau tidak ada istilah di kosakata.",
+      "seconds": 2.9183000151533633e-05,
+      "code": "Q9",
+      "median_search_seconds": 2.5948999791580718e-05,
+      "matches_exhaustive_cosine": null
+    }
+  ]
+}

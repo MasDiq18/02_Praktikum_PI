@@ -1,0 +1,51 @@
+
+=== INFORMATION RETRIEVAL SYSTEM ===
+[1] Load & Index Dataset
+[2] Search Query
+[3] Exit
+====================================
+Pilih menu: Pilih menu 1 terlebih dahulu.
+
+=== INFORMATION RETRIEVAL SYSTEM ===
+[1] Load & Index Dataset
+[2] Search Query
+[3] Exit
+====================================
+Pilih menu: Cache dimuat: 49,484 dokumen dalam 0.294 s
+
+=== INFORMATION RETRIEVAL SYSTEM ===
+[1] Load & Index Dataset
+[2] Search Query
+[3] Exit
+====================================
+Pilih menu: Masukkan query: 
+Query: lagu anime Naruto
+Token: lagu anime naruto
+Kandidat: 1,037 | Waktu pencarian: 0.1494 s
+
+1. [mojok] 7 Lagu Anime yang Pasti Bikin Kamu Makin Semangat
+   ID: mojok:1 | Cosine: 0.588237
+   Lagu anime punya magis tersendiri. Ia tidak dibuat khusus untuk anime tersebut, kadang malah diciptakan atau rilis jauh sebelum anime tersebut rilis. Tapi, dia tidak bisa dipisahkan dari anime. Ia seakan menyatu, dan menceritakan anime ters...
+
+2. [mojok] 7 Lagu Luar Negeri yang Punya Vibes Mirip Lagu Indonesia
+   ID: mojok:1719 | Cosine: 0.433172
+   Tak ada yang baru di bawah matahari. Ungkapan ini seolah jadi salah satu prinsip yang cukup penting dalam dunia pengkaryaan, entah musik, sastra, atau film. Maka tak heran jika ada sebuah karya yang mirip dengan karya-karya sebelumnya, dan ...
+
+3. [mojok] Rekomendasi Lagu-lagu Musisi Lampung yang Patut Didengar Selain Kangen Band
+   ID: mojok:2237 | Cosine: 0.423836
+   Berbicara soal musisi Lampung, Kangen Band adalah satu nama yang pasti terpikirkan di benak kebanyakan orang. Wajar saja, sebab lagu-lagu dari grup band yang digawangi oleh Andika Mahesa sebagai vokalis itu sudah sering diputar di televisi ...
+
+4. [mojok] 5 Rekomendasi Lagu The Rain yang Underrated
+   ID: mojok:986 | Cosine: 0.422031
+   Ngaku deh, kalau diminta menyebutkan lagu The Rain, pasti kalian akan menyebutkan “Terlatih Patah Hati” dan “Gagal Bersembunyi” kan? Hal itu wajar. Kedua lagu tersebut memang lagu yang ikonik dan unik. Ikonik, karena bisa dibilang jadi lagu...
+
+5. [mojok] 10 Lagu TikTok Viral yang Sebenarnya Enak, tapi Mengganggu di Telinga
+   ID: mojok:8743 | Cosine: 0.417712
+   TikTok. Platform ini, sepakat atau tidak, menjadi salah satu platform yang cukup ampuh untuk memasarkan sebuah lagu. Bukan seperti Spotify, YouTube Music, atau Bandcamp yang hanya menjajakan lagu, TikTok menjajakan lagu dengan visual kreasi...
+
+=== INFORMATION RETRIEVAL SYSTEM ===
+[1] Load & Index Dataset
+[2] Search Query
+[3] Exit
+====================================
+Pilih menu: Program selesai.
